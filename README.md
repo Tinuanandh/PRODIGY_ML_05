@@ -18,3 +18,25 @@ The project aims to develop a deep learning model capable of accurately recogniz
 - Summary of the things I tried.
 - Further improvements.
 - Feedback.
+
+## Contributing
+
+If you'd like to contribute to the development of this landing page, please follow these steps:
+
+1. Fork the repository
+2. Create a new branch (`git checkout -b feature`)
+3. Make your changes and commit them (`git commit -m 'Add new feature'`)
+4. Push to the branch (`git push origin feature`)
+5. Open a pull request
+
+## Issues
+
+If you encounter any issues or have suggestions for improvements, please [open an issue](https://github.com/Tinuanandh/PRODIGY_ML_05/issues).
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+## Contact
+
+For inquiries, feel free to open an issue and ask me directly.
